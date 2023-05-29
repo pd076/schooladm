@@ -1,0 +1,2 @@
+# schooladm
+school administration
